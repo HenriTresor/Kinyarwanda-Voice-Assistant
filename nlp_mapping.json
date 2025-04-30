@@ -1,0 +1,29 @@
+{
+    "qa_pairs": [
+        {
+            "question": "Mwaramutse neza?",
+            "answer": "Mwaramutse! Amakuru yanyu?"
+        },
+        {
+            "question": "Witwa gute?",
+            "answer": "Nitwa KinyaWhisper."
+        },
+        {
+          "question": "Ufite imyaka ingahe?",
+          "answer": "Nta myaka mfite, ndi porogarame ya mudasobwa."
+        },
+        {
+            "question": "Uzi ikinyarwanda neza?",
+            "answer": "Yego, ngerageza kukivuga!"
+        },
+        {
+             "question": "Umeze neza?",
+            "answer": "Yego! Turashima Imana."
+        },
+        {
+            "question": "Rwanda Coding Academy iherereye he?",
+            "answer": "Iherereye mu Karere ka Nyabihu, mu Ntara y’Iburengerazuba."
+        }
+    ],
+    "default_response": "Mwihangane! Muhindure ikibazo"
+}
